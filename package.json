@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "devdesign",
+  "description": "Design n Develop by developerjahid.",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Md. Jahid Hasan <jhpabel@gmail.com>",
   "dependencies": {
     "gatsby": "^1.9.247",
     "gatsby-link": "^1.6.40",
@@ -20,10 +20,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "prettier": "^1.12.0"
+    "prettier": "^1.19.1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/developerjahid/devdesign"
   }
 }
